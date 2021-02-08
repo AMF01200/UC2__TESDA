@@ -18,7 +18,7 @@ val = today.getTime();
 
 birthday.setMonth(0);
 birthday.setDate(12);
-birthday.setFullYear()1984;
+birthday.setFullYear(1984);
 birthday.setHours(3);
 birthday.setMinutes(30);
 birthday.setSeconds(30);
